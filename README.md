@@ -42,12 +42,6 @@ This project focuses on analyzing structured data using Microsoft Excel. It demo
 
 ![Dashboard Preview](image/dashboard_image.png)
 
-<p align="center">
-  <img src="images/dashboard.png" width="850"/>
-</p>
-
----
-
 ## 📈 Key Insights
 
 * Identified important trends and patterns
