@@ -40,7 +40,7 @@ This project focuses on analyzing structured data using Microsoft Excel. It demo
 
 ## 📊 Dashboard Preview
 
-![Executive Dashboard](image/dashboard_image.png)
+![Dashboard Preview](image/dashboard_image.png)
 
 <p align="center">
   <img src="images/dashboard.png" width="850"/>
