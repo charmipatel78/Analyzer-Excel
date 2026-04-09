@@ -74,4 +74,4 @@ This project demonstrates fundamental Excel skills required for data analysis. I
 
 ## 👩‍💻 Author
 
-**Charmy Patel**
+**Charmi Patel**
